@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "iDb71fEHryHe7BDTwzoV+0vM4/XAaStFvHueCcO7oDSHCMLvy8Y2WntzaW8QD9BxTqYAxRrFZ6th+I2iyK4s/w==",
+  "success": true,
+  "projectFilePath": "D:\\Practice\\UnitTesting\\UniversityApp\\src\\UniversityApp.API\\UniversityApp.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nitu Kumari\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Nitu Kumari\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Nitu Kumari\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512",
+    "C:\\Users\\Nitu Kumari\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Nitu Kumari\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Nitu Kumari\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Nitu Kumari\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
